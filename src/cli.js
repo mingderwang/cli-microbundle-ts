@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 require('yargs')
-  .scriptName("muzamint")
+  .scriptName("mintapp1")
   .usage('$0 <cmd> [args]')
   .command('hello [name]', 'welcome ter yargs!', (yargs) => {
     yargs.positional('name', {

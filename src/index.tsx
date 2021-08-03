@@ -1,5 +1,6 @@
 import * as React from "react";
 import ReactDOM from "react-dom";
+import { h } from 'preact';
 
 const PKG_VERSION = 'PKG_VERSION';
 export const version = PKG_VERSION;
