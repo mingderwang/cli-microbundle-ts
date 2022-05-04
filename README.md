@@ -1,4 +1,4 @@
-# go-etherspot
+# easyspot
 
 > To use this command for testing etherspot features
 

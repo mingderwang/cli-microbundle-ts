@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 require("yargs")
-  .scriptName("go-etherspot")
+  .scriptName("easyspot")
   .usage("$0 <cmd> [args]")
   .command(
     "hello [name]",
