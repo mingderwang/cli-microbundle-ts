@@ -1,4 +1,6 @@
-# easyspot
+# easyspot (mintapp1 package)
+
+[![Try it-postmsg on RunKit](https://badge.runkitcdn.com/it-postmsg.svg)](https://npm.runkit.com/it-postmsg)
 
 > To use this command for testing etherspot features
 
